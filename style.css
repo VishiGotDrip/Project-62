@@ -1,0 +1,47 @@
+body
+{
+    text-align: center;
+}
+.container{
+  background-color: mediumaquamarine;  
+}
+#app {
+    background-color: aliceblue;
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color :turquoise;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:aquamarine;
+font-size:25px;    
+}
+
+h2{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:aquamarine;
+font-size:25px;    
+}
+
+h5{
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:aquamarine;
+font-size:15px;    
+}    
